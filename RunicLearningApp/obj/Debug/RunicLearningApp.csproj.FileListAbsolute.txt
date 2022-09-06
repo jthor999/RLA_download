@@ -1,0 +1,12 @@
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\bin\Debug\RunicLearningApp.exe.config
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\bin\Debug\RunicLearningApp.exe
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\bin\Debug\RunicLearningApp.pdb
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.csproj.AssemblyReference.cache
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.Properties.Resources.resources
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.csproj.GenerateResource.cache
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.csproj.CoreCompileInputs.cache
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.exe
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.pdb
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.Form1.resources
+C:\Users\12624\source\repos\RunicLearningApp\RunicLearningApp\obj\Debug\RunicLearningApp.InfoDisplay.resources
